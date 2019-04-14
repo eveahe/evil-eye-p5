@@ -1,1 +1,2 @@
-# evil-eyes-p5
+# evil-eye-p5
+Small experiment with p5.js
